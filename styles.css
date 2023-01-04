@@ -75,6 +75,10 @@ h1 {
   font-size: 1.75rem;
 }
 
+button {
+  color: var(--Very-dark-desaturated-blue);
+}
+
 .accordion__item {
   border-bottom: 1px solid var(--Light-grayish-blue);
 }
