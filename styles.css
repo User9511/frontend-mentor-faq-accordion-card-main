@@ -16,6 +16,8 @@
   --Light-grayish-blue: hsl(240, 5%, 91%);
 }
 
+/* General Styles */
+
 body {
   display: grid;
   align-items: center;
@@ -26,6 +28,8 @@ body {
   min-height: 100vh;
   color: var(--Very-dark-desaturated-blue);
 }
+
+/* Card Styles */
 
 .card {
   background-color: #fff;
@@ -38,6 +42,7 @@ body {
   background-repeat: no-repeat;
   background-position: center 0%;
   background-size: 15rem;
+  min-height: 36.3125rem;
 }
 
 .card__box {
@@ -69,7 +74,6 @@ h2,
 h3 {
   margin-top: 0;
 }
-
 h1 {
   margin-bottom: 2rem;
   font-size: 1.75rem;
@@ -165,6 +169,7 @@ button {
     background-image: url(./images/bg-pattern-desktop.svg);
     background-size: 45%;
     background-position: -13% center;
+    min-height: 31.125rem;
   }
 
   .card__box {
