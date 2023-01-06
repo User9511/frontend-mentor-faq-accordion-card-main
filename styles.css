@@ -69,6 +69,8 @@ body {
   padding-top: 7rem;
 }
 
+/* Typography */
+
 h1,
 h2,
 h3 {
@@ -82,6 +84,8 @@ h1 {
 button {
   color: var(--Very-dark-desaturated-blue);
 }
+
+/* Accordion */
 
 .accordion__item {
   border-bottom: 1px solid var(--Light-grayish-blue);
@@ -159,6 +163,7 @@ button {
 }
 
 /* Desktop Styles */
+
 @media (min-width: 56em) {
   .card {
     position: relative;
