@@ -1,7 +1,7 @@
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/faq-accordion-card-_aznseSvUE)
-- [Live Site URL](https://smgy94.github.io/frontend-mentor-faq-accordion-card-main/)
+- [Live Site URL](https://user9511.github.io/frontend-mentor-faq-accordion-card-main/)
 
 # Frontend Mentor - FAQ accordion card solution
 
